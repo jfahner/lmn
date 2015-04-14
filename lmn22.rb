@@ -1,4 +1,4 @@
-#ruby program by Jerry Fahner to read status of Lansing Maker Network space
+#ruby program by Jerry Fahner to read status of Lansing Makers Network space
 #and control a blink(1) light.
 #set blink(1) controller to check for color code in a file, here called 
 #c:/junk/lmn.rb
